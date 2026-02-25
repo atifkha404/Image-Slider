@@ -141,9 +141,9 @@ body {
     transform: scale(1.2);
 }
 
-.nav-dot:nth-child(1) {
-    background: #fff;
-    transform: scale(1.2);
+.nav-dot.active {
+  background: #fff;
+  transform: scale(1.2);
 }
 
 /* Animation demo only */
